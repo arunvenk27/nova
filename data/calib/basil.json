@@ -1,0 +1,102 @@
+{
+  "SENSOR_SIGMA": {
+    "air_temp_c": [
+      "abs",
+      0.286629
+    ],
+    "ec_ds_m": [
+      "abs",
+      0.036682
+    ],
+    "height_cm": [
+      "abs",
+      0.339112
+    ],
+    "leaf_count": [
+      "abs",
+      0.639684
+    ],
+    "light_par": [
+      "rel",
+      0.03345
+    ],
+    "ph": [
+      "abs",
+      0.047542
+    ],
+    "pot_weight_g": [
+      "abs",
+      1.929305
+    ],
+    "rel_humidity_pct": [
+      "abs",
+      2.131035
+    ],
+    "rosette_diam_cm": [
+      "abs",
+      0.349375
+    ],
+    "soil_moisture_pct": [
+      "abs",
+      1.968468
+    ],
+    "spad": [
+      "abs",
+      1.120193
+    ],
+    "growth_past3": [
+      "abs",
+      0.159859
+    ],
+    "leaf_rate_past3": [
+      "abs",
+      0.30155
+    ],
+    "age_days": [
+      "abs",
+      0.0
+    ],
+    "sm_deficit": [
+      "abs",
+      1.968468
+    ],
+    "sm_excess": [
+      "abs",
+      1.968468
+    ],
+    "heat_excess": [
+      "abs",
+      0.286629
+    ],
+    "ec_excess": [
+      "abs",
+      0.036682
+    ],
+    "ec_deficit": [
+      "abs",
+      0.036682
+    ],
+    "Re_rel": [
+      "abs",
+      0.005701
+    ],
+    "Ri_rel": [
+      "abs",
+      0.004793
+    ],
+    "log10_fc": [
+      "abs",
+      0.002308
+    ],
+    "alpha": [
+      "abs",
+      0.005488
+    ],
+    "phase_min_deg": [
+      "abs",
+      0.207939
+    ]
+  },
+  "TEMP_COEF": 0.02105,
+  "source": "SIMULATED calibration data from generate_lettuce_trial.py"
+}
